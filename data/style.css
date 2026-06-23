@@ -156,7 +156,7 @@ body {
 }
 
 #slide-1 {
-    background-image: url('img/slide-1.jpg');
+    background-image: url('img/slide-1.png');
     background-size: cover;
     background-position: center;
 }
@@ -247,4 +247,34 @@ body {
 
 .countdown-item {
     min-width: 60px;
+}
+
+.line-footer {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%; 
+}
+
+.line-footer::before {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #4a5568;
+    margin-right: 15px;
+}
+
+.line-footer::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #4a5568;
+    margin-left: 15px;
+}
+
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
 }
