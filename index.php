@@ -227,7 +227,7 @@
                             <div class="card-body" style="padding: 3rem 1.5rem;">
                                 <h3 class="font-dancing mb-4 primary-text" style="font-size: 2.8rem;">Resepsi</h3>
                                 <p class="mb-1 text-dark fw-bold text-uppercase" style="font-size: 1rem; letter-spacing: 2px;">Sabtu, 04 Juli 2026</p>
-                                <p class="mb-4 text-dark" style="font-size: 1rem; letter-spacing: 1px;">11.00 WIB - Selesai</p>
+                                <p class="mb-4 text-dark" style="font-size: 1rem; letter-spacing: 1px;">11.00 WIB - 20.00 WIB</p>
                                 
                                 <div class="mb-4">
                                     <p class="mb-1 text-dark fw-bold" style="font-size: 0.85rem;">Kediaman Mempelai Wanita</p>
@@ -325,16 +325,9 @@
                     <div class="mt-auto pt-4 w-100 d-flex flex-column align-items-center">
                         <p class="text-muted fw-medium mb-3 line-footer" style="font-size: 0.55rem;">Terimakasih</p>
                         
-                        <div class="d-flex gap-3 justify-content-center mb-4">
-                            <a href="#" class="text-secondary fs-4"><i class="bi bi-instagram"></i></a>
-                            <a href="#" class="text-secondary fs-4"><i class="bi bi-linkedin"></i></a>
-                            <a href="#" class="text-secondary fs-4"><i class="bi bi-github"></i></a>
-                            <a href="#" class="text-secondary fs-4"><i class="bi bi-envelope-fill"></i></a>
-                        </div>
-                        
-                        <p class="mb-2 text-muted fw-light" style="letter-spacing: 5px; font-size: 0.7rem; text-transform: lowercase;">
+                        <a href="https://shaka-banuasta.my.id/" target="_blank" class="mb-2 text-muted fw-light" style="letter-spacing: 5px; font-size: 0.7rem; text-transform: lowercase; text-decoration: none;">
                             shaka-banuasta.my.id
-                        </p>
+                        </a>
                     </div>
                 </section>      
             </div>
